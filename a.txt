@@ -1,2 +1,3 @@
 this is just a fit file
 this will be 2nd line appended
+this is the [6~[6~[6~third line 
